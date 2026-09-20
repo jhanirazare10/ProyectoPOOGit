@@ -13,6 +13,6 @@ public class Persona {
     }
     
     public void saludar() {
-    System.out.println("Hola, soy " + nombre + " y esta es una mejora en la rama.");
-    }
+    System.out.println("Hola, soy " + nombre + " y estoy en la rama main.");
+}
 }
